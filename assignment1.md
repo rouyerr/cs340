@@ -90,8 +90,8 @@ but you will still be asked to specify a terminal type (just accept the default)
 At this point, on the remote server, you will want to make a directory for this assignment and change
 the current working directory to be inside it: 
 ```
-mkdir assignment1 cd
-assignment1
+mkdir assignment1
+cd assignment1
 ```
 Now, you'll want to download the SQL file that defines the database that we will
 use for this assignment, into the `assignment1` subdirectory:
